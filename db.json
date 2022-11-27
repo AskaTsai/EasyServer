@@ -7,5 +7,15 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+
+  "class":[
+    {
+      "class_no": "大数据2201",
+      "stu_num":41
+    },{
+      "class_no": "大数据2202",
+      "stu_num":43
+    }
+  ]
 }

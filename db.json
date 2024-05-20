@@ -15,20 +15,74 @@
 
   "class":[
     {
-      "class_no": "大数据2301",
-      "stu_num":41
-    },{
-      "class_no": "大数据2302",
-      "stu_num":43
-    },{
-      "class_no": "大数据2303",
-      "stu_num":45
-    },{
       "class_no": "大数据2401",
-      "stu_num":41
-    },{
+      "stu_num": 41,
+      "major": "大数据技术"
+    },
+    {
+      "class_no": "信息安全技术2401",
+      "stu_num": 35,
+      "major": "信息安全技术"
+    },
+    {
+      "class_no": "大数据2302",
+      "stu_num": 43,
+      "major": "大数据技术"
+    },
+    {
+      "class_no": "信息安全技术2402",
+      "stu_num": 37,
+      "major": "信息安全技术"
+    },
+    {
+      "class_no": "计算机网络技术2401",
+      "stu_num": 45,
+      "major": "计算机网络技术"
+    },
+    {
+      "class_no": "计算机网络技术2402",
+      "stu_num": 40,
+      "major": "计算机网络技术"
+    },
+    {
+      "class_no": "软件技术2403",
+      "stu_num": 39,
+      "major": "软件技术"
+    },
+    {
+      "class_no": "计算机网络技术2403",
+      "stu_num": 43,
+      "major": "计算机网络技术"
+    },
+    {
       "class_no": "大数据2402",
-      "stu_num":40
+      "stu_num": 40,
+      "major": "大数据技术"
+    },
+    {
+      "class_no": "大数据2303",
+      "stu_num": 45,
+      "major": "大数据技术"
+    },
+    {
+      "class_no": "大数据2301",
+      "stu_num": 41,
+      "major": "大数据技术"
+    },
+    {
+      "class_no": "软件技术2402",
+      "stu_num": 42,
+      "major": "软件技术"
+    },
+    {
+      "class_no": "计算机网络技术2404",
+      "stu_num": 41,
+      "major": "计算机网络技术"
+    },
+    {
+      "class_no": "软件技术2401",
+      "stu_num": 38,
+      "major": "软件技术"
     }
   ],
   "bigDataMatch": [
